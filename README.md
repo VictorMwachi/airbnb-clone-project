@@ -6,13 +6,6 @@ The **Airbnb Clone Project** aims to develop a fullstack application that simula
 ## Problem Statement
 The short-term rental market continues to grow globally, creating opportunities for property monetization and convenient travel accommodations. This project addresses the need for a scalable, reliable web platform that facilitates these connections and transactions, simulating the successful Airbnb business model in a learning/development context
 
-## Tech Stack
-- **Backend Framework:** Django
-- **Database:** MySQL
-- **API:** GraphQL
-- **Version Control:** GitHub
-- **Deployment Tools:** Docker, GitHub Actions (for CI/CD)
-
 ## Team roles
 # Team Roles for Airbnb Clone Project
 
@@ -39,3 +32,10 @@ The short-term rental market continues to grow globally, creating opportunities 
 11. **Security Specialist** - Implements security protocols, conducts vulnerability assessments, ensures compliance with data protection regulations, and prevents security breaches.
 
 12. **User Researcher** - Conducts user interviews and usability testing, gathers feedback, analyzes user behavior, and provides insights to improve product experience.
+
+## Technology Stack
+- **Backend Framework:** Django
+- **Database:** MySQL
+- **API:** GraphQL
+- **Version Control:** GitHub
+- **Deployment Tools:** Docker, GitHub Actions (for CI/CD)
