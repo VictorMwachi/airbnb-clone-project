@@ -1,10 +1,10 @@
 # Airbnb Clone Project
 
 ## About the Project
-The **Airbnb Clone Project** is a full-stack application designed to simulate the functionality of a real-world booking platform like Airbnb. It provides a hands-on experience in backend development, database design, API security, and deployment practices. This project emphasizes both technical skill-building and collaborative team workflows, preparing learners for industry-grade software development.
+The **Airbnb Clone Project** aims to develop a fullstack application that simulates the core functionality of Airbnb. This application will connect property owners with potential renters, providing a platform for short-term accommodation listings, bookings, and payments. The project will deliver a user-friendly interface with essential features found in the original Airbnb platform, optimized for mobile devices.
 
 ## Problem Statement
-The short-term rental market continues to grow globally, creating opportunities for property monetization and convenient travel accommodations. This project addresses the need for a scalable, reliable mobile platform that facilitates these connections and transactions, simulating the successful Airbnb business model in a learning/development context
+The short-term rental market continues to grow globally, creating opportunities for property monetization and convenient travel accommodations. This project addresses the need for a scalable, reliable web platform that facilitates these connections and transactions, simulating the successful Airbnb business model in a learning/development context
 
 ## Tech Stack
 - **Backend Framework:** Django
