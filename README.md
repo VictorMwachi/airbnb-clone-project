@@ -213,7 +213,7 @@ The short-term rental market continues to grow globally, creating opportunities 
 - Booking (1) → Property (1)
 - Booking (1) → Payment (0..1)
 - Booking (1) → Review (0..1)
-## Features Breakdown
+## Feature Breakdown
 
 ## 1. User Management
 The user management system handles registration, authentication, and profile management for both hosts and guests. This core feature establishes user identity verification, enables personalized experiences, and builds trust within the platform through profile completeness and verification badges.
