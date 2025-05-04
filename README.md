@@ -213,3 +213,49 @@ The short-term rental market continues to grow globally, creating opportunities 
 - Booking (1) → Property (1)
 - Booking (1) → Payment (0..1)
 - Booking (1) → Review (0..1)
+## Features Breakdown
+
+## 1. User Management
+The user management system handles registration, authentication, and profile management for both hosts and guests. This core feature establishes user identity verification, enables personalized experiences, and builds trust within the platform through profile completeness and verification badges.
+
+## 2. Property Management
+Property management allows hosts to create, edit, and manage their property listings with details, amenities, house rules, and availability calendars. This feature forms the inventory backbone of the platform, giving hosts tools to showcase their spaces effectively and manage their rental business through the app.
+
+## 3. Search and Discovery
+The search and discovery system enables users to find properties based on location, dates, price range, amenities, and property types with map integration. This feature enhances user experience by providing intuitive navigation through available properties with relevant filters, helping guests find their ideal accommodations efficiently.
+
+## 4. Booking System
+The booking system facilitates the reservation process from request to confirmation, handling dates, guest numbers, and special requests. This critical feature manages the core transaction of the platform, ensuring clear communication between parties and preventing double bookings through real-time availability updates.
+
+## 5. Messaging System
+The messaging system enables direct communication between hosts and guests before, during, and after stays. This feature fosters trust through transparent communication, allowing clarification of details, answering questions, and coordinating check-in procedures in a secure environment.
+
+## 6. Payment Processing
+The payment system handles secure transactions, including booking payments, security deposits, and refunds. This essential feature enables monetary exchange between parties with appropriate security measures, supports multiple payment methods, and manages the platform's service fees transparently.
+
+## 7. Review and Rating
+The review and rating system allows guests and hosts to evaluate each other after completed stays. This feature builds community trust by providing authentic feedback about properties and guests, helping future users make informed decisions based on past experiences.
+
+## 8. Notification System
+The notification system keeps users informed about booking requests, messages, upcoming stays, and platform updates. This feature ensures timely communication of important events, reducing response times and improving overall user engagement with the platform.
+
+## 9. Wishlist and Favorites
+The wishlist feature allows users to save and organize properties they're interested in for future reference. This feature enhances user experience by enabling trip planning and comparison shopping, while also providing valuable data on user preferences and popular listings.
+
+## 10. Host Dashboard
+The host dashboard provides analytics, booking management, and financial reporting for property owners. This feature empowers hosts with business intelligence tools to optimize their listings, track performance metrics, and manage their rental operations effectively.
+
+## 11. Pricing and Availability Management
+The pricing and availability management feature allows hosts to set base rates, seasonal pricing, and special offers with calendar controls. This feature maximizes host revenue potential through dynamic pricing options while ensuring accurate availability information for potential guests.
+
+## 12. Property Categorization
+The property categorization system organizes listings into meaningful groups based on property types and experiences. This feature improves discoverability by allowing users to browse by categories that match their preferences, such as unique stays, beachfront properties, or urban apartments.
+
+## 13. Location-Based Services
+Location-based services provide mapping, proximity searches, and neighborhood information for properties. This feature contextualizes listings within their geographic surroundings, helping guests understand property locations relative to attractions, transportation, and services.
+
+## 14. Multi-Platform Accessibility
+Multi-platform accessibility ensures the application functions seamlessly across iOS and Android mobile devices. This feature maximizes market reach by supporting the dominant mobile platforms, allowing users to access the service regardless of their device preference.
+
+## 15. Account Verification
+The account verification system validates user identities through document checks and verification processes. This feature enhances platform security and trust by confirming user identities, reducing fraud risk, and creating accountability for both hosts and guests.
