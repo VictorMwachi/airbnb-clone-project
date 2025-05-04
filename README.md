@@ -364,3 +364,26 @@ Bug bounty program
 
 Why It's Crucial:
 Security vulnerabilities in application code can create entry points for attackers. Implementing secure coding practices from the beginning is more effective than retrofitting security later. A compromised application could lead to data breaches, account takeovers, or service disruptions.
+
+## CI/CD Pipeline
+CI/CD (Continuous Integration and Continuous Deployment) pipelines automate the process of building, testing, and deploying code. In an Airbnb clone project, a CI/CD pipeline ensures that any new code changes are automatically tested and deployed to staging or production environments without manual intervention.
+
+Why are CI/CD Pipelines Important?
+Speed: Developers get faster feedback on their changes.
+
+Reliability: Automated tests catch bugs before they reach production.
+
+Consistency: Every deployment follows the same process, reducing human error.
+
+Collaboration: Teams can merge code more confidently and frequently.
+
+Tools You Could Use:
+GitHub Actions: For automating workflows like testing, building, and deployment when code is pushed to GitHub.
+
+Docker: To containerize your application so it runs consistently across different environments.
+
+Docker Hub or GitHub Container Registry: For storing and managing Docker images.
+
+Heroku, AWS, or DigitalOcean: For deploying the application.
+
+Terraform or Ansible (optional): For infrastructure as code, if the project scales.
